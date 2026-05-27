@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32H5/STM32H503CBUx:STM32H503CBUx",
+  "name": "STM32H503CBUx",
+  "library": "MCU_ST_STM32H5",
+  "file": "MCU_ST_STM32H5.kicad_symdir/STM32H503CBUx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M33 MCU, 128KB flash, 32KB RAM, 250 MHz, 35 GPIO, UFQFPN48",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32h503cb.pdf",
+  "keywords": "Arm Cortex-M33 STM32H5 STM32H503",
+  "footprint": "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32h5@master/parts/STM32H503CBUx/",
+  "part_path": "parts/STM32H503CBUx",
+  "symbol_file": "parts/STM32H503CBUx/STM32H503CBUx.kicad_sym",
+  "source_library": "MCU_ST_STM32H5.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:49.703Z"
+}

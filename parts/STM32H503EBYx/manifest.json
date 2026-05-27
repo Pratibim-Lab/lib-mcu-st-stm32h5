@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32H5/STM32H503EBYx:STM32H503EBYx",
+  "name": "STM32H503EBYx",
+  "library": "MCU_ST_STM32H5",
+  "file": "MCU_ST_STM32H5.kicad_symdir/STM32H503EBYx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M33 MCU, 128KB flash, 32KB RAM, 250 MHz, 19 GPIO, WLCSP25",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32h503eb.pdf",
+  "keywords": "Arm Cortex-M33 STM32H5 STM32H503",
+  "footprint": "Package_CSP:ST_WLCSP-25_2.33x2.24mm_Layout5x5_P0.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32h5@master/parts/STM32H503EBYx/",
+  "part_path": "parts/STM32H503EBYx",
+  "symbol_file": "parts/STM32H503EBYx/STM32H503EBYx.kicad_sym",
+  "source_library": "MCU_ST_STM32H5.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:49.708Z"
+}

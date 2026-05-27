@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32H5/STM32H562IGTx:STM32H562IGTx",
+  "name": "STM32H562IGTx",
+  "library": "MCU_ST_STM32H5",
+  "file": "MCU_ST_STM32H5.kicad_symdir/STM32H562IGTx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M33 MCU, 1024KB flash, 640KB RAM, 140 GPIO, LQFP176",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32h562ig.pdf",
+  "keywords": "Arm Cortex-M33 STM32H5 STM32H5x2",
+  "footprint": "Package_QFP:LQFP-176_24x24mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32h5@master/parts/STM32H562IGTx/",
+  "part_path": "parts/STM32H562IGTx",
+  "symbol_file": "parts/STM32H562IGTx/STM32H562IGTx.kicad_sym",
+  "source_library": "MCU_ST_STM32H5.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:49.823Z"
+}

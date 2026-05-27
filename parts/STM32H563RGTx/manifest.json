@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32H5/STM32H563RGTx:STM32H563RGTx",
+  "name": "STM32H563RGTx",
+  "library": "MCU_ST_STM32H5",
+  "file": "MCU_ST_STM32H5.kicad_symdir/STM32H563RGTx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M33 MCU, 1024KB flash, 640KB RAM, 250 MHz, 1.62-3.6V, 49 GPIO, LQFP64",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32h563rg.pdf",
+  "keywords": "Arm Cortex-M33 STM32H5 STM32H563/H573",
+  "footprint": "Package_QFP:LQFP-64_10x10mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32h5@master/parts/STM32H563RGTx/",
+  "part_path": "parts/STM32H563RGTx",
+  "symbol_file": "parts/STM32H563RGTx/STM32H563RGTx.kicad_sym",
+  "source_library": "MCU_ST_STM32H5.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:49.900Z"
+}

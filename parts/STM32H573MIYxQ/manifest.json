@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32H5/STM32H573MIYxQ:STM32H573MIYxQ",
+  "name": "STM32H573MIYxQ",
+  "library": "MCU_ST_STM32H5",
+  "file": "MCU_ST_STM32H5.kicad_symdir/STM32H573MIYxQ.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M33 MCU, 2048KB flash, 640KB RAM, 250 MHz, 1.62-3.6V, 57 GPIO, WLCSP80",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32h573mi.pdf",
+  "keywords": "Arm Cortex-M33 STM32H5 STM32H563/H573",
+  "footprint": "Package_CSP:ST_WLCSP-80_3.5x3.27mm_Layout10x16_P0.35mm_Stagger_Offcenter",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32h5@master/parts/STM32H573MIYxQ/",
+  "part_path": "parts/STM32H573MIYxQ",
+  "symbol_file": "parts/STM32H573MIYxQ/STM32H573MIYxQ.kicad_sym",
+  "source_library": "MCU_ST_STM32H5.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:49.967Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32H5/STM32H533ZETx:STM32H533ZETx",
+  "name": "STM32H533ZETx",
+  "library": "MCU_ST_STM32H5",
+  "file": "MCU_ST_STM32H5.kicad_symdir/STM32H533ZETx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M33 MCU, 512KB flash, 272KB RAM, 112 GPIO, LQFP144",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32h533ze.pdf",
+  "keywords": "Arm Cortex-M33 STM32H5 STM32H5x3",
+  "footprint": "Package_QFP:LQFP-144_20x20mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32h5@master/parts/STM32H533ZETx/",
+  "part_path": "parts/STM32H533ZETx",
+  "symbol_file": "parts/STM32H533ZETx/STM32H533ZETx.kicad_sym",
+  "source_library": "MCU_ST_STM32H5.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:49.806Z"
+}

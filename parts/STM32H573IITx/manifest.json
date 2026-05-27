@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32H5/STM32H573IITx:STM32H573IITx",
+  "name": "STM32H573IITx",
+  "library": "MCU_ST_STM32H5",
+  "file": "MCU_ST_STM32H5.kicad_symdir/STM32H573IITx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M33 MCU, 2048KB flash, 640KB RAM, 250 MHz, 1.62-3.6V, 140 GPIO, LQFP176",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32h573ii.pdf",
+  "keywords": "Arm Cortex-M33 STM32H5 STM32H563/H573",
+  "footprint": "Package_QFP:LQFP-176_24x24mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32h5@master/parts/STM32H573IITx/",
+  "part_path": "parts/STM32H573IITx",
+  "symbol_file": "parts/STM32H573IITx/STM32H573IITx.kicad_sym",
+  "source_library": "MCU_ST_STM32H5.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:49.956Z"
+}

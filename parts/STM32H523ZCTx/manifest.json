@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32H5/STM32H523ZCTx:STM32H523ZCTx",
+  "name": "STM32H523ZCTx",
+  "library": "MCU_ST_STM32H5",
+  "file": "MCU_ST_STM32H5.kicad_symdir/STM32H523ZCTx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M33 MCU, 256KB flash, 272KB RAM, 112 GPIO, LQFP144",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32h523zc.pdf",
+  "keywords": "Arm Cortex-M33 STM32H5 STM32H5x3",
+  "footprint": "Package_QFP:LQFP-144_20x20mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32h5@master/parts/STM32H523ZCTx/",
+  "part_path": "parts/STM32H523ZCTx",
+  "symbol_file": "parts/STM32H523ZCTx/STM32H523ZCTx.kicad_sym",
+  "source_library": "MCU_ST_STM32H5.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:49.767Z"
+}

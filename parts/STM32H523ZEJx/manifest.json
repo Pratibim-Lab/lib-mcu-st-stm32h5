@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32H5/STM32H523ZEJx:STM32H523ZEJx",
+  "name": "STM32H523ZEJx",
+  "library": "MCU_ST_STM32H5",
+  "file": "MCU_ST_STM32H5.kicad_symdir/STM32H523ZEJx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M33 MCU, 512KB flash, 272KB RAM, 112 GPIO, UFBGA144",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32h523ze.pdf",
+  "keywords": "Arm Cortex-M33 STM32H5 STM32H5x3",
+  "footprint": "Package_BGA:UFBGA-144_10x10mm_Layout12x12_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32h5@master/parts/STM32H523ZEJx/",
+  "part_path": "parts/STM32H523ZEJx",
+  "symbol_file": "parts/STM32H523ZEJx/STM32H523ZEJx.kicad_sym",
+  "source_library": "MCU_ST_STM32H5.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:49.771Z"
+}
